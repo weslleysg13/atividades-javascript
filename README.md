@@ -1,0 +1,1 @@
+A função parImpar(numero), vai realizar a divisão do número informado por 2 e verificar se o resto é igual a 0, se for, ele informa que o número é par, já que é divisível por 2, se não, ele informa que o número é ímpar, por não ser divisível por 2. 
